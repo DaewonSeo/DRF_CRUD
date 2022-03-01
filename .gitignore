@@ -1,0 +1,4 @@
+*/__pycache__/
+drinks/settings.py
+db.sqlite3
+venv
